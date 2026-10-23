@@ -1,0 +1,37 @@
+name: Daily Mains + Topic from queue
+# Every morning at 06:15 IST (00:45 UTC) publish one Mains question and one Topic of the day
+# from queue/. Runs on GitHub, so it continues even if the Claude daily task stops.
+on:
+  schedule:
+    - cron: '45 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-queue
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Publish today's items and push
+        run: |
+          git config user.name "ak-queue-bot"
+          git config user.email "ak-queue-bot@users.noreply.github.com"
+          for i in 1 2 3; do
+            git fetch origin main && git reset --hard origin/main
+            node tools/publish-queue.js
+            git add ak-data.json queue/
+            if git diff --cached --quiet; then echo "Nothing new today"; exit 0; fi
+            git commit -m "Daily Mains + Topic $(TZ=Asia/Kolkata date +%F) (from queue)"
+            git push origin HEAD:main && exit 0
+            echo "Push rejected (main moved); retrying from the latest main"; sleep 15
+          done
+          exit 1
