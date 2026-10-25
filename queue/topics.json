@@ -10431,8 +10431,8 @@
     "మరో చివర నుంచి స్థానం = మొత్తం − ఇచ్చిన స్థానం + 1."
    ],
    [
-    "Number of people BETWEEN two persons = (sum of their positions from opposite ends) − Total − 2, when their positions do not overlap; draw it out if unsure.",
-    "ఇద్దరి మధ్య ఉన్నవారి సంఖ్య = (వ్యతిరేక చివరల నుంచి వారి స్థానాల మొత్తం) − మొత్తం − 2 (స్థానాలు ఒకదానిపై ఒకటి రానప్పుడు); సందేహం ఉంటే చిత్రం గీయండి."
+    "If A is x-th from the left and B is y-th from the right in a row of N: when x + y ≤ N, people between them = N − x − y; when x + y > N, people between = x + y − N − 2.",
+    "N మంది వరుసలో A ఎడమ నుంచి x-వ, B కుడి నుంచి y-వ స్థానంలో ఉంటే: x + y ≤ N అయితే వారి మధ్య ఉన్నవారు = N − x − y; x + y > N అయితే మధ్య ఉన్నవారు = x + y − N − 2."
    ],
    [
     "Facing north: right = east, left = west. Facing south: right = west, left = east.",
