@@ -10390,5 +10390,173 @@
     ]
    }
   ]
+ },
+ {
+  "id": "t068",
+  "n": 68,
+  "s": "ma",
+  "title": [
+   "Ranking & seating arrangement",
+   "ర్యాంకింగ్, సీటింగ్ అమరిక"
+  ],
+  "exam": [
+   "G1 Prelims Paper II (Mental Ability) • G2 Screening",
+   "గ్రూప్-1 ప్రిలిమ్స్ పేపర్ II (మెంటల్ ఎబిలిటీ) • గ్రూప్-2 స్క్రీనింగ్"
+  ],
+  "kid": [
+   [
+    "Ranking is about counting places in a line. If you are 3rd from the front of a queue and 5th from the back, then counting both ways counts YOU twice. So the queue has 3 + 5 − 1 = 7 people.",
+    "ర్యాంకింగ్ అంటే వరుసలో స్థానాలను లెక్కించడం. మీరు క్యూలో ముందు నుంచి 3వ, వెనుక నుంచి 5వ స్థానంలో ఉంటే, రెండు వైపుల నుంచి లెక్కించినప్పుడు మిమ్మల్ని రెండుసార్లు లెక్కిస్తాం. కాబట్టి క్యూలో 3 + 5 − 1 = 7 మంది ఉన్నారు."
+   ],
+   [
+    "Worked example 1: In a row of 25 students, Ravi is 9th from the left. His position from the right = 25 − 9 + 1 = 17th.",
+    "ఉదాహరణ 1: 25 మంది విద్యార్థుల వరుసలో రవి ఎడమ నుంచి 9వ స్థానంలో ఉన్నాడు. కుడి నుంచి అతని స్థానం = 25 − 9 + 1 = 17వ."
+   ],
+   [
+    "Seating in a row: when people face north, their right hand points east. Draw a line of blanks, place the \"sure\" clues first (like \"at the extreme left\"), then fill the rest.",
+    "వరుస అమరిక: ఉత్తరం వైపు చూస్తున్నప్పుడు కుడిచేయి తూర్పు వైపు ఉంటుంది. ఖాళీల వరుస గీసి, ముందు \"ఖచ్చితమైన\" ఆధారాలను (ఉదా. \"ఎడమ చివర\") ఉంచి, తర్వాత మిగతావి నింపండి."
+   ],
+   [
+    "Worked example 2: R, T, P, Q, S sit in a row facing north. R is at the extreme left, S at the extreme right, Q is to the immediate right of P, and T sits between R and P. Order: R T P Q S, so P is in the middle.",
+    "ఉదాహరణ 2: R, T, P, Q, S ఉత్తరం వైపు చూస్తూ వరుసలో కూర్చున్నారు. R ఎడమ చివర, S కుడి చివర, P కి వెంటనే కుడివైపు Q, R, P ల మధ్య T. అమరిక: R T P Q S; కాబట్టి మధ్యలో P."
+   ]
+  ],
+  "key": [
+   [
+    "Total in a row = (position from left) + (position from right) − 1.",
+    "వరుసలో మొత్తం = (ఎడమ నుంచి స్థానం) + (కుడి నుంచి స్థానం) − 1."
+   ],
+   [
+    "Position from the other end = Total − given position + 1.",
+    "మరో చివర నుంచి స్థానం = మొత్తం − ఇచ్చిన స్థానం + 1."
+   ],
+   [
+    "Number of people BETWEEN two persons = (sum of their positions from opposite ends) − Total − 2, when their positions do not overlap; draw it out if unsure.",
+    "ఇద్దరి మధ్య ఉన్నవారి సంఖ్య = (వ్యతిరేక చివరల నుంచి వారి స్థానాల మొత్తం) − మొత్తం − 2 (స్థానాలు ఒకదానిపై ఒకటి రానప్పుడు); సందేహం ఉంటే చిత్రం గీయండి."
+   ],
+   [
+    "Facing north: right = east, left = west. Facing south: right = west, left = east.",
+    "ఉత్తరం వైపు చూస్తే: కుడి = తూర్పు, ఎడమ = పడమర. దక్షిణం వైపు చూస్తే: కుడి = పడమర, ఎడమ = తూర్పు."
+   ],
+   [
+    "Circle facing the centre: moving to a person's right is anticlockwise; to the left is clockwise.",
+    "కేంద్రం వైపు చూస్తూ వృత్తంలో: ఒకరి కుడివైపు జరగడం అపసవ్య దిశ; ఎడమవైపు సవ్య దిశ."
+   ],
+   [
+    "\"Immediate right\" means the very next seat; \"to the right\" can be any seat on that side.",
+    "\"వెంటనే కుడివైపు\" అంటే పక్క సీటు మాత్రమే; \"కుడివైపు\" అంటే ఆ వైపు ఏ సీటైనా కావచ్చు."
+   ],
+   [
+    "Always fix the definite clues (ends, middle, immediate neighbours) first, then the \"between\" and negative clues.",
+    "ఎప్పుడూ ముందు ఖచ్చితమైన ఆధారాలను (చివరలు, మధ్య, పక్కవారు) స్థిరపరచి, తర్వాత \"మధ్యలో\", వ్యతిరేక ఆధారాలను వాడండి."
+   ]
+  ],
+  "traps": [
+   [
+    "Total ≠ left + right; you must subtract 1, because the person is counted twice.",
+    "మొత్తం ≠ ఎడమ + కుడి; ఆ వ్యక్తి రెండుసార్లు లెక్కింపబడతాడు కాబట్టి 1 తీసివేయాలి."
+   ],
+   [
+    "In a circle facing the centre, \"right\" is NOT clockwise — it is anticlockwise.",
+    "కేంద్రం వైపు చూసే వృత్తంలో \"కుడి\" సవ్య దిశ కాదు — అపసవ్య దిశ."
+   ],
+   [
+    "If people face south, their right is west — do NOT use the north-facing picture.",
+    "దక్షిణం వైపు చూస్తే కుడివైపు పడమర — ఉత్తరం వైపు చిత్రాన్ని వాడవద్దు."
+   ]
+  ],
+  "memory": [
+   "\"Count twice, minus once\": Total = L + R − 1. For circles facing in: \"Right = anti-clock\".",
+   "\"రెండుసార్లు లెక్క, ఒకటి తీసివెయ్\": మొత్తం = ఎడమ + కుడి − 1. లోపలికి చూసే వృత్తంలో: \"కుడి = అపసవ్యం\"."
+  ],
+  "qs": [
+   {
+    "q": [
+     "In a class of 40 students, Asha is 15th from the top. What is her rank from the bottom?",
+     "40 మంది విద్యార్థుల తరగతిలో ఆశ పై నుంచి 15వ ర్యాంకులో ఉంది. కింద నుంచి ఆమె ర్యాంకు ఎంత?"
+    ],
+    "o": [
+     [
+      "25th",
+      "25వ"
+     ],
+     [
+      "26th",
+      "26వ"
+     ],
+     [
+      "24th",
+      "24వ"
+     ],
+     [
+      "27th",
+      "27వ"
+     ]
+    ],
+    "a": 1,
+    "ex": [
+     "Rank from bottom = 40 − 15 + 1 = 26.",
+     "కింద నుంచి ర్యాంకు = 40 − 15 + 1 = 26."
+    ]
+   },
+   {
+    "q": [
+     "Consider the statements:\n1. For a person facing north, the right side is east.\n2. If a person is 8th from the left and 8th from the right in a row, the row has 15 people.\n3. For people sitting in a circle facing the centre, moving to the right means moving clockwise.\nWhich of the above are correct?",
+     "ప్రకటనలు పరిశీలించండి:\n1. ఉత్తరం వైపు చూస్తున్న వ్యక్తికి కుడివైపు తూర్పు.\n2. ఒక వ్యక్తి వరుసలో ఎడమ నుంచి 8వ, కుడి నుంచి 8వ స్థానంలో ఉంటే వరుసలో 15 మంది ఉంటారు.\n3. కేంద్రం వైపు చూస్తూ వృత్తంలో కూర్చున్నవారికి కుడివైపు జరగడం అంటే సవ్య దిశలో జరగడం.\nపై వాటిలో ఏవి సరైనవి?"
+    ],
+    "o": [
+     [
+      "1 and 2 only",
+      "1 మరియు 2 మాత్రమే"
+     ],
+     [
+      "2 and 3 only",
+      "2 మరియు 3 మాత్రమే"
+     ],
+     [
+      "1 only",
+      "1 మాత్రమే"
+     ],
+     [
+      "1, 2 and 3",
+      "1, 2 మరియు 3"
+     ]
+    ],
+    "a": 0,
+    "ex": [
+     "8 + 8 − 1 = 15. Facing the centre, right is anticlockwise, so statement 3 is wrong.",
+     "8 + 8 − 1 = 15. కేంద్రం వైపు చూస్తే కుడి అపసవ్య దిశ; కాబట్టి ప్రకటన 3 తప్పు."
+    ]
+   },
+   {
+    "q": [
+     "L, M, N, O and P sit in a row facing north. M is at the extreme right, N is to the immediate left of M, L is at the extreme left, and O sits between L and P. Who is in the middle?",
+     "L, M, N, O, P ఉత్తరం వైపు చూస్తూ వరుసలో కూర్చున్నారు. M కుడి చివర, M కి వెంటనే ఎడమవైపు N, L ఎడమ చివర, L, P ల మధ్య O ఉన్నారు. మధ్యలో ఎవరు?"
+    ],
+    "o": [
+     [
+      "N",
+      "N (ఎన్)"
+     ],
+     [
+      "O",
+      "O (ఓ)"
+     ],
+     [
+      "L",
+      "L (ఎల్)"
+     ],
+     [
+      "P",
+      "P (పి)"
+     ]
+    ],
+    "a": 3,
+    "ex": [
+     "Order from left: L O P N M, so P is in the middle.",
+     "ఎడమ నుంచి అమరిక: L O P N M; కాబట్టి మధ్యలో P."
+    ]
+   }
+  ]
  }
 ]
