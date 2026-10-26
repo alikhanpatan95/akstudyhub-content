@@ -5660,5 +5660,97 @@
    "Samudra Manthan",
    "Energy transition"
   ]
+ },
+ {
+  "marks": 15,
+  "words": 250,
+  "mins": 15,
+  "paper": [
+   "G1 Mains • Paper V: Science, Technology & Environment",
+   "గ్రూప్-1 మెయిన్స్ • పేపర్ V: శాస్త్ర సాంకేతికత, పర్యావరణం"
+  ],
+  "q": [
+   "India is among the largest generators of electronic waste. Discuss the environmental and health hazards of e-waste and examine how far the E-Waste (Management) Rules, 2022 address them.",
+   "ఎలక్ట్రానిక్ వ్యర్థాలను అత్యధికంగా ఉత్పత్తి చేసే దేశాల్లో భారత్ ఒకటి. ఈ-వ్యర్థాల వల్ల పర్యావరణానికి, ఆరోగ్యానికి కలిగే ప్రమాదాలను చర్చించి, ఈ-వ్యర్థాల (నిర్వహణ) నిబంధనలు, 2022 వాటిని ఎంతవరకు పరిష్కరిస్తున్నాయో పరిశీలించండి."
+  ],
+  "approach": [
+   "\"Discuss\" the hazards with examples, then \"examine\" the 2022 Rules — what they do well and where they fall short. Give about 35% to hazards, 45% to the Rules and gaps, and end with a circular-economy way forward.",
+   "ప్రమాదాలను ఉదాహరణలతో \"చర్చించండి\", తర్వాత 2022 నిబంధనలను \"పరిశీలించండి\" — అవి ఏం బాగా చేస్తున్నాయి, ఎక్కడ వెనుకబడుతున్నాయి. ప్రమాదాలకు సుమారు 35%, నిబంధనలు, లోటుపాట్లకు 45% కేటాయించి, వలయ ఆర్థిక వ్యవస్థ ముందడుగుతో ముగించండి."
+  ],
+  "intro": [
+   "E-waste is discarded electrical and electronic equipment — phones, computers, TVs, chargers and appliances. Rapid digitalisation and short product life have made it one of India's fastest-growing waste streams, and most of it is still handled by the informal sector.",
+   "ఈ-వ్యర్థాలు అంటే పారేసిన విద్యుత్, ఎలక్ట్రానిక్ పరికరాలు — ఫోన్లు, కంప్యూటర్లు, టీవీలు, ఛార్జర్లు, గృహోపకరణాలు. వేగవంతమైన డిజిటలీకరణ, తక్కువ ఉత్పత్తి జీవితకాలం వల్ల ఇది భారత్‌లో అత్యంత వేగంగా పెరుగుతున్న వ్యర్థాల్లో ఒకటిగా మారింది; ఇందులో అధిక భాగాన్ని ఇప్పటికీ అసంఘటిత రంగమే నిర్వహిస్తోంది."
+  ],
+  "body": [
+   {
+    "h": [
+     "Environmental and health hazards",
+     "పర్యావరణ, ఆరోగ్య ప్రమాదాలు"
+    ],
+    "pts": [
+     [
+      "E-waste contains toxic metals such as lead, mercury and cadmium; when dumped they leach into soil and groundwater.",
+      "ఈ-వ్యర్థాల్లో సీసం, పాదరసం, కాడ్మియం వంటి విషపూరిత లోహాలు ఉంటాయి; పారేసినప్పుడు అవి నేలలోకి, భూగర్భ జలాల్లోకి చేరతాయి."
+     ],
+     [
+      "Open burning of wires and acid baths used to recover metals release toxic fumes, harming workers' lungs, kidneys and nervous systems.",
+      "లోహాలను వెలికితీసేందుకు తీగలను బహిరంగంగా కాల్చడం, ఆమ్ల స్నానాలు విషపూరిత పొగలను విడుదల చేసి కార్మికుల ఊపిరితిత్తులు, మూత్రపిండాలు, నాడీ వ్యవస్థకు హాని చేస్తాయి."
+     ],
+     [
+      "Informal recyclers, including women and children, work without protection; valuable metals are also lost.",
+      "మహిళలు, పిల్లలు సహా అసంఘటిత పునఃచక్రీకరణదారులు రక్షణ లేకుండా పనిచేస్తారు; విలువైన లోహాలు కూడా నష్టమవుతాయి."
+     ]
+    ]
+   },
+   {
+    "h": [
+     "E-Waste (Management) Rules, 2022: strengths and gaps",
+     "ఈ-వ్యర్థాల (నిర్వహణ) నిబంధనలు, 2022: బలాలు, లోటుపాట్లు"
+    ],
+    "pts": [
+     [
+      "Extended Producer Responsibility (EPR): producers must meet yearly recycling targets through registered recyclers and tradable EPR certificates on a CPCB online portal.",
+      "విస్తరించిన ఉత్పత్తిదారుల బాధ్యత (EPR): ఉత్పత్తిదారులు నమోదైన పునఃచక్రీకరణదారుల ద్వారా వార్షిక పునఃచక్రీకరణ లక్ష్యాలను, CPCB ఆన్‌లైన్ పోర్టల్‌లో వర్తకం చేయగల EPR సర్టిఫికెట్ల ద్వారా చేరుకోవాలి."
+     ],
+     [
+      "The list of covered products was widened and the system shifted to registration and online tracking.",
+      "వర్తించే ఉత్పత్తుల జాబితాను విస్తరించి, నమోదు, ఆన్‌లైన్ ట్రాకింగ్ విధానానికి మార్చారు."
+     ],
+     [
+      "Gaps: the informal sector, which handles most e-waste, is not integrated; enforcement and collection networks are weak; consumers know little about safe disposal.",
+      "లోటుపాట్లు: అధిక ఈ-వ్యర్థాలను నిర్వహించే అసంఘటిత రంగాన్ని వ్యవస్థలో చేర్చలేదు; అమలు, సేకరణ వ్యవస్థలు బలహీనం; సురక్షిత పారవేతపై వినియోగదారులకు అవగాహన తక్కువ."
+     ]
+    ]
+   }
+  ],
+  "ap": [
+   "AP angle: in October 2026 schools across Andhra Pradesh held e-waste collection drives under Eco Clubs for Mission LiFE. Linking such drives with urban local bodies and registered recyclers can build a steady collection chain.",
+   "ఏపీ కోణం: 2026 అక్టోబర్‌లో మిషన్ లైఫ్ ఎకో క్లబ్‌ల కింద ఆంధ్రప్రదేశ్ అంతటా పాఠశాలలు ఈ-వ్యర్థాల సేకరణ కార్యక్రమాలు నిర్వహించాయి. ఇటువంటి కార్యక్రమాలను పట్టణ స్థానిక సంస్థలు, నమోదైన పునఃచక్రీకరణదారులతో అనుసంధానిస్తే స్థిరమైన సేకరణ వ్యవస్థ ఏర్పడుతుంది."
+  ],
+  "concl": [
+   "The 2022 Rules give India a sound EPR framework, but results depend on bringing informal workers into safe, formal recycling, strong enforcement and public awareness. Treating e-waste as an \"urban mine\" for critical minerals can turn a hazard into a resource.",
+   "2022 నిబంధనలు భారత్‌కు బలమైన EPR చట్రాన్ని ఇచ్చాయి; కానీ ఫలితాలు అసంఘటిత కార్మికులను సురక్షిత, సంఘటిత పునఃచక్రీకరణలోకి తేవడం, కఠిన అమలు, ప్రజా అవగాహనపై ఆధారపడతాయి. ఈ-వ్యర్థాలను కీలక ఖనిజాల \"పట్టణ గని\"గా చూస్తే ప్రమాదాన్ని వనరుగా మార్చవచ్చు."
+  ],
+  "tips": [
+   [
+    "Draw the EPR flow: Producer → collection → registered recycler → EPR certificate → CPCB portal.",
+    "EPR ప్రవాహ చిత్రం గీయండి: ఉత్పత్తిదారు → సేకరణ → నమోదైన పునఃచక్రీకరణదారు → EPR సర్టిఫికెట్ → CPCB పోర్టల్."
+   ],
+   [
+    "Quote the Basel Convention (1989) on transboundary movement of hazardous waste.",
+    "ప్రమాదకర వ్యర్థాల సరిహద్దు రవాణాపై బాసెల్ ఒప్పందాన్ని (1989) ఉటంకించండి."
+   ],
+   [
+    "Keywords: EPR, urban mining, circular economy, informal sector integration.",
+    "కీలక పదాలు: EPR, పట్టణ గనులు, వలయ ఆర్థిక వ్యవస్థ, అసంఘటిత రంగ సమ్మిళితం."
+   ]
+  ],
+  "kw": [
+   "E-waste",
+   "EPR",
+   "Circular economy",
+   "Urban mining",
+   "Basel Convention"
+  ]
  }
 ]
